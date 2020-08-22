@@ -1,6 +1,6 @@
 # LingdongProjectIndex
 
-Projects which Lingdong Huang developed or contributed to, with the support of the Frank-Ratchye STUDIO for Creative Inquiry, September 2018 - December 2020: 
+Projects which [Lingdong Huang](https://github.com/LingDong-) developed or contributed to, with the support of the Frank-Ratchye STUDIO for Creative Inquiry, September 2018 - December 2020: 
 
 ---
 
