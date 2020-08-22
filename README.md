@@ -66,7 +66,7 @@ A [collection of polygon data](https://github.com/LingDong-/interesting-polygon-
 
 ## Other
 
-### Soli Sandbox Demos
+#### Soli Sandbox Demos
 
 Programs demonstrating the Soli radar sensor in Google Pixel 4 mobile devices, developed for Soli Sandbox: 
 
@@ -78,7 +78,12 @@ We have also created two "dashboard" (debug view) apps for previewing Soli and o
 * [https://soli-dashboard-plus.glitch.me/](https://soli-dashboard-plus.glitch.me/) -- shows Soli events, plus gyroscope & accelerometer
 
 
-### ScribblePuzzle
+#### Ambigrammatic Figures
+
+[Grotesque faces](https://a2p.bitmark.com/v2/artworks/326c6e057e5bd48c5edae92e7143085170d61a9de0d1699b2884c0adda89b49dd623542aa60575eba3a4b27e23b4cc96403d1a39743f835b28b7d7410691ef89) that are legible both upside-down and right-side up.
+
+
+#### ScribblePuzzle
 
 This [work-in-progress](https://github.com/LingDong-/scribblepuzzle) is not yet public.
 
