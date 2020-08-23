@@ -34,21 +34,21 @@ An [interactive installation](https://github.com/LingDong-/THP) for the Carnegie
 
 ### p5.js Mobile Events
 
-- **sensors-duo**: Sharing sensor data between 2 mobile devices visiting the page. [Code]() • [App]()
-- **sensors-chorus**: Sharing sensor data between all mobile devices visiting the page. [Code]() • [App]()
-- **sensors-rooms**: Sharing sensor data between mobile devices in the same virtual "room", distinguished by the URL query. [Code]() • [App]()
+- **sensors-duo**: Sharing sensor data between 2 mobile devices visiting the page. [Code](https://glitch.com/edit/#!/sensors-duo) • [App](https://sensors-duo.glitch.me/)
+- **sensors-chorus**: Sharing sensor data between all mobile devices visiting the page. [Code](https://glitch.com/edit/#!/sensors-chrous) • [App](https://sensors-chrous.glitch.me/)
+- **sensors-rooms**: Sharing sensor data between mobile devices in the same virtual "room", distinguished by the URL query. [Code](https://glitch.com/edit/#!/sensors-rooms) • [App](https://sensors-rooms.glitch.me/)
 
 ![](screenshots/sensors.png)
 
 ### Server Data Templates
 
-- **2d-chat**: A public chatroom where users can insert text anywhere on a canvas. Uses p5.js. [Code]() • [App]()
-- **piano-rooms**: A multiplayer multitouch piano using Tone.js. [Code]() • [App]()
+- **2d-chat**: A public chatroom where users can insert text anywhere on a canvas. Uses p5.js. [Code](https://glitch.com/edit/#!/2d-chat) • [App](https://2d-chat.glitch.me/)
+- **piano-rooms**: A multiplayer multitouch piano using Tone.js. [Code](https://glitch.com/edit/#!/piano-rooms) • [App](https://piano-rooms.glitch.me/)
 
 ### Reusable Backends
 
-- **postnget**: SQLite database responding HTML POST and GET methods allowing user to store, share and retrieve arbitrary piece of data with a short hash as the key. [Code]() • [App]()
-- **hiscore**: A shared highscore server for arbitrary games using a SQLite database responding to URL queries. [Code]() • [App]()
+- **postnget**: SQLite database responding HTML POST and GET methods allowing user to store, share and retrieve arbitrary piece of data with a short hash as the key. [Code](https://glitch.com/edit/#!/postnget) • [App](https://postnget.glitch.me/)
+- **hiscore**: A shared highscore server for arbitrary games using a SQLite database responding to URL queries. [Code](https://glitch.com/edit/#!/hiscore) • [App](https://hiscore.glitch.me/)
 
 
 --- 
