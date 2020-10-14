@@ -35,7 +35,7 @@ An [interactive installation](https://github.com/LingDong-/THP) for the Carnegie
 ### p5.js Mobile Events
 
 - **sensors-duo**: Sharing sensor data between 2 mobile devices visiting the page. [Code](https://glitch.com/edit/#!/sensors-duo) • [App](https://sensors-duo.glitch.me/)
-- **sensors-chorus**: Sharing sensor data between all mobile devices visiting the page. [Code](https://glitch.com/edit/#!/sensors-chrous) • [App](https://sensors-chrous.glitch.me/)
+- **sensors-chorus**: Sharing sensor data between all mobile devices visiting the page. [Code](https://glitch.com/edit/#!/sensors-chorus) • [App](https://sensors-chorus.glitch.me/)
 - **sensors-rooms**: Sharing sensor data between mobile devices in the same virtual "room", distinguished by the URL query. [Code](https://glitch.com/edit/#!/sensors-rooms) • [App](https://sensors-rooms.glitch.me/)
 
 ![](screenshots/sensors.png)
